@@ -1,0 +1,16 @@
+{
+    "nombre":"Eduardo Marcelo",
+    "apellido":"Quilpatay",
+    "puesto":"Desarrollador Full Stack Junior",
+    "redes": [
+    { 
+        "id": 0,
+        "icono": "bi linkedin"
+    },
+    {
+        "id": 1,
+        "icono": "bi github"
+    }
+    
+    ],
+    "habilidades": 

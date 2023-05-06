@@ -1,0 +1,13 @@
+.colorceleste{background-color: rgb(3, 51, 90);}
+.bg-blue{
+    background-color:rgb(23, 178, 184);
+}
+footer.bg-blue{
+    bottom: 0;
+   width: 100%;
+   height: 10%;
+   padding: 0.5%;
+   }
+   .login{
+    height: 80vh;
+}
